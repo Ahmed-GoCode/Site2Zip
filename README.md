@@ -1,9 +1,4 @@
 # 📦 site2zip – Website to ZIP Telegram Bot  
-
-<p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/200/000000/external-website-seo-and-marketing-flatart-icons-outline-flatarticons.png" width="160"/>
-</p>  
-
 <p align="center">
   <b>Download any website as a ZIP archive directly from Telegram 🚀</b>  
 </p>  
@@ -22,18 +17,9 @@ No need for wget or external tools — everything runs on pure Python with `requ
 - 📦 Automatically zips downloaded content  
 - 🛡️ File size and page limits for safe usage  
 - 🧹 Auto-deletes files after **3 minutes** for privacy  
-- ✅ Simple `/start`, `/help`, and `/status` commands  
+- ✅ Simple `/start`, `/help`, and `/status` commands
 
----
-
-## 📸 Preview  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/480/000000/compress.png" width="120"/>  
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/120/000000/external-bot-automation-technology-flaticons-lineal-color-flat-icons.png" width="120"/>  
-  <img src="https://img.icons8.com/external-outline-juicy-fish/120/000000/external-zip-files-file-and-folder-outline-outline-juicy-fish.png" width="120"/>  
-</p>  
-
+  
 ---
 
 ## ⚙️ Installation  
@@ -41,8 +27,10 @@ No need for wget or external tools — everything runs on pure Python with `requ
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/Ahmed-GoCode/site2zip.git
+   
    cd site2zip
-```
+
+   
 --- 
 
 2. Install dependencies
@@ -109,17 +97,21 @@ site2zip/
 🛠️ Built With
 
 Python 3 🐍
+
 python-telegram-bot 🤖
+
 Requests 🌐
+
 BeautifulSoup4 🍲
 
 ---
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/Ahmed-GoCode/Site2Zip/blob/main/LICENSE)
  file for details.
 
  ---
+
 
  p align="center"> Made with ❤️ by Ahmad </p> ```
